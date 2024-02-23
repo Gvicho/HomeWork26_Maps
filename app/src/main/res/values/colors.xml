@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_line">#7AFFFFFF</color>
+    <color name="background">#22343C</color>
+    <color name="item_background">#30444E</color>
+    <color name="item_background_green">#3ED598</color>
+    <color name="text_color">#96A7AF</color>
+    <color name="edit_text_background">#2A3C44</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="bottom_bar_color">#30444E</color>
+    <color name="bottom_bar_color_selector">#96A7AF</color>
+    <color name="sky">#C9E8F7</color>
+</resources>
